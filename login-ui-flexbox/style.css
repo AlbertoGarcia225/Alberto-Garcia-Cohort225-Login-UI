@@ -33,12 +33,19 @@ html,body {
   background-color: white;
   color: #bababa;
   font-size: 15px;
+  border-style: solid;
+  border-width: 1px;
+  min-width: 40%;
 }
 
 .password {
+  
   background-color: white;
   color: #bababa;
   font-size: 15px;
+  border-style: solid;
+  border-width: 1px;
+  min-width:40%;
 }
 
 /*Sign In Button*/
