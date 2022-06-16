@@ -1,10 +1,8 @@
 /*Outside of the Background*/
 html,body {
-    background-size: 100%;
-    background-image: url(mw2.jpg);
     margin: 0px;
     /*border:10px solid goldenrod;*/
-    background-color: rgb(207, 205, 205);
+    background-color: rgb(234, 231, 231);
 }
 
 /*Background*/
@@ -21,13 +19,11 @@ html,body {
     display: flex;
     background-color: white;
     font-size: 15px;
-    border-color: black;
-    border-style: solid;
     border-width: 2px;
     border-radius: 12px;
     border-color: rgba(11, 11, 11, 0.3);
     min-width: 25%;
-    min-height: 45%;
+    min-height: 50%;
     flex-direction: column;
     align-items: center;
 }
@@ -50,14 +46,12 @@ html,body {
 
 /*Sign In Button*/
 .button {
-    width: 7vw;
+    width: 10vw;
     height: 5vh;
     color: white;
-    font-size: 13px;
-    border-color: black;
-    border-style: solid;
+    font-size: 11px;
     border-width: 2px;
-    background-color: rgb(103, 103, 250);
+    background-color: rgb(63, 150, 243);
     border-radius: 10%;
     cursor: pointer;
     display: flex;
