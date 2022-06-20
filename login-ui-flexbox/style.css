@@ -31,7 +31,6 @@ html,body {
 .username {
   margin: 30px;
   background-color: white;
-  color: #bababa;
   font-size: 15px;
 
 }
@@ -39,7 +38,6 @@ html,body {
 .password {
   margin: 30px;
   background-color: white;
-  color: #bababa;
   font-size: 15px;
 }
 
